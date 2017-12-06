@@ -1,1 +1,4 @@
 .emacs.d/elpa
+custom.el
+savehist
+projectile-bookmarks.eld
