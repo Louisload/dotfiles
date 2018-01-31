@@ -150,5 +150,8 @@ by Prelude.")
       mac-command-key-is-meta t
       mac-command-modifier 'meta
       mac-option-modifier 'none)
+      
+;;; Friendly org-mode agenda key binding to c-c a
+(global-set-key "\C-ca" 'org-agenda)
 
 ;;; init.el ends here
